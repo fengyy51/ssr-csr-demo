@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Egg + React + SSR应用骨架
 
 详细用法实现请查看[官方文档](http://ykfe.net)
@@ -21,3 +22,7 @@
 - [x] 配套结合[dva](https://github.com/ykfe/egg-react-ssr/tree/master/example/ssr-with-dva)做数据管理的example的实现
 - [x] 配套阿里云serverless [FC](https://github.com/ykfe/ssr-with-fc)版本的实现
 - [x] 配套[TypeScript](https://github.com/ykfe/egg-react-ssr/tree/dev/example/ssr-with-ts)版本的实现 
+=======
+# ssr-csr-demo
+学习demo
+>>>>>>> 147cae3bb7aad38f2976a242c746bc58f3db3f8d
